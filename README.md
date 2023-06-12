@@ -4,4 +4,6 @@ PA2 Tangible interface
 
 Nosenko Andrii 16 Variant
 
-Implement surface rotation based on hardware magnetometer sensor readings
+Implement surface rotation based on software orientation sensor readings.
+
+Link on video: 
