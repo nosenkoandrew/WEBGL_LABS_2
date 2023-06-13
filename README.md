@@ -10,4 +10,4 @@ visualize position of the sound source with a sphere;
 add a sound filter (use BiquadFilterNode interface) per variant. Add checkbox element that enables or disables the filter. Set filter parameters according to your taste.
 
 
-Youtube link: 
+Youtube link: https://youtu.be/HLiacWG0iN0
